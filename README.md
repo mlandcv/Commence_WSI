@@ -25,8 +25,8 @@ Extract the folder in your preferred directory and add the path for the bin fold
 I guess we are all set for a while now.
 
 # Visualising WSI using openslide
-Lets validate our installations by doing a simple task of visualising our WSI using Deepzoom python interface from the openslide repository.
-Clone the following repository using git or just download it if you dont use git for windows:
+Lets validate our installations by doing a simple task of visualising our WSI using remote Deepzoom python interface from the openslide repository.
+Clone the following repository using git or just download the repo it if you dont use git for windows:
 ```
     git clone https://github.com/openslide/openslide-python.git
     cd openslide-python/examples/deepzoom
