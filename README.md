@@ -33,5 +33,6 @@ Clone the following repository using git or just download the repo it if you don
     python deepzoom_multiserver.py -Q 100 path/to/the/WSI/data/folder
 ```
 This will start a web interface and display the image files specified in the path to the image folder.
-All good
+All good!!!
+Lets jump to WSInotebook1 for further action
 
