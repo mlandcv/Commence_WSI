@@ -15,7 +15,7 @@ After successful installation, create an environment with Python>=3 using conda 
 ```
 Next, install other required packages and dependencies:
 ```
-    pip install -U matplotlib numpy openslide-python Pillow scikit-image scikit-learn scikit-image scipy Flask
+    pip install -U matplotlib numpy openslide-python Pillow scikit-image scikit-learn scikit-image scipy Flask opencv-python
 ```
 Download 64-bit openslide windows binary from the following link:
 ```
